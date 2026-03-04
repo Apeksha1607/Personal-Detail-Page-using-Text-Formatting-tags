@@ -76,7 +76,3 @@ Through this project, I learned how to:
 The webpage displays a personal profile in a centered card format with a gradient background and formatted text.
 
 ---
-
-### 🙏 Thank You for Visiting My Page
-
-If your teacher wants a **shorter README for journal submission**, I can trim this to 1-page format.
